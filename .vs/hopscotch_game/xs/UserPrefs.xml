@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C9C3D63F-CAE1-375E-6828-EA7AB5311788}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Menu.cs">
+    <Files>
+      <File FileName="Assets/Scenes/Menu.cs" Line="31" Column="36" />
+      <File FileName="Assets/Scenes/Game2/MemoryGame.cs" />
+      <File FileName="Assets/Scenes/Game2/CellMemoryGame.cs" />
+      <File FileName="Assets/Scenes/Game2/DetectionColliderMemoryGame.cs" />
+      <File FileName="Assets/Scenes/Game1/GameHopscotch.cs" Line="105" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hopscotch_game" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scenes" expanded="True">
+                <Node name="Game1" expanded="True" />
+                <Node name="Game2" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1d7b2b6b-2de3-440b-8c9e-4bbdef74e5af" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

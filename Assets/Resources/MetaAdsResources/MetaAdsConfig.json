@@ -1,0 +1,13 @@
+{
+ "userId": "1398",
+  "userSignature": "33e8e611e7229cad52b793c637b5122e",
+  "baseUrl": "https://metaads.team",
+  "streamUrl":"https://metastream.cc",
+  "defaultImageUrl": "https://metaads.team/data/default.png",
+  "metaverse":"Unity",
+  "intervalBetweenRequests": 1000,
+  "intervalForMetrics": 1000,
+  "intervalForSendMetrics": 5000,
+  "intervalForPixelMetrics": 1000,
+  "intervalForUpdatePixelToken": 60000
+}
